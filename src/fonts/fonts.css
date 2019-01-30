@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Fira Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: url(Fira_Sans-normal-300.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Fira Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Fira_Sans-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Fira Sans';
+	font-style: normal;
+	font-weight: 500;
+	src: url(Fira_Sans-normal-500.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Fira Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Fira_Sans-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Merriweather-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Merriweather-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 900;
+	src: url(Merriweather-normal-900.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Roboto_Slab-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Roboto_Slab-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+

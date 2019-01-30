@@ -1,0 +1,67 @@
+// Custom
+@import "variable";
+
+*::-webkit-input-placeholder {
+  color: #666;
+  opacity: 1;
+}
+
+*:-moz-placeholder {
+  color: #666;
+  opacity: 1;
+}
+
+*::-moz-placeholder {
+  color: #666;
+  opacity: 1;
+}
+
+*:-ms-input-placeholder {
+  color: #666;
+  opacity: 1;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+  color: #666;
+}
+
+body input:required:valid,
+body textarea:required:valid {
+  color: #666;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: $main-bg;
+  color: $main-text-color;
+  font-size: 16px;
+  font-weight: 300;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.75;
+  font-family: $default-font;
+  overflow-x: hidden;
+  opacity: 1;
+}
+
+h2, h3 {
+  font-family: $headers-font;
+  font-weight: bold;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.toast {
+  bottom: 1rem;
+  position: fixed;
+  right: 1rem;
+  z-index: 16;
+  img {
+    height: auto;
+    width: 1.75rem;
+  }
+}

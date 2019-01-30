@@ -1,0 +1,21 @@
+{
+  "name": "PonomaryovStas",
+  "version": "1.0.0",
+  "homepage": "https://www.alex.kr.ua",
+  "authors": [
+    "Stas Ponomaryov <ponomaryov.stas@gmail.com>"
+  ],
+  "description": "Web-dev portfolio",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "*",
+    "font-awesome": "*",
+    "bootstrap": "4.0.0-beta.2",
+    "jasny-bootstrap": "^3.1.3",
+    "bootstrap-select": "1.12.4"
+  }
+}
